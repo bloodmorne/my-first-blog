@@ -25,7 +25,7 @@ SECRET_KEY = 'wo(3h0bq6#$$!^4^)m0fw%ma-_7(jxq=+fwdt_uhbi3fp3)nw)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<bloodmorne>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'bloodmorne.pythonanywhere.com']
 
 
 # Application definition
